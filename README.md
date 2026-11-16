@@ -1,6 +1,8 @@
 # Launch Signal
 
 [![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/kriptmwan/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard)
+[![reward](https://make.fun/badge/token-radar-01/kriptmwan/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
 
 An original offline protocol research desk built on the make.fun starter's Node protocol and vendored dossier library. The dashboard is rewritten: capital/momentum map, sortable and paginated research table, category/network search, separate token-recorded view, evidence inspector and conditional farming workflows.
 
