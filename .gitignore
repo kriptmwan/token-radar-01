@@ -1,0 +1,6 @@
+out/
+.verify/
+kit-inspection.txt
+requirements.json
+*.tar.gz
+*.db
