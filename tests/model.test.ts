@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { buildRadar, MODEL } from '../lib/model.ts';
+import { buildRadar, MODEL } from '../lib/engine.ts';
 const p = { slug:'example', name:'Example', category:'Lending', chains:['Ethereum'], tvl_usd:10000000, change_7d:20, listed_at:'2025-01-01', mcap_usd:null, gecko_id:null, symbol:null };
 const snapshot = { as_of:'2026-11-15', source:'fixture', floor_usd:50000000, watchlist:['example'], protocols:[p] };
 test('research evidence and scenario bounds travel with the rendered row', () => {

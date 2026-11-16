@@ -1,4 +1,6 @@
 out/
+out-a/
+out-b/
 .verify/
 kit-inspection.txt
 requirements.json
